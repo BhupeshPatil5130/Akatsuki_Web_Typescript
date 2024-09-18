@@ -1,4 +1,4 @@
-/* eslint-disable react/no-unescaped-entities */
+
 import React from 'react';
 import { alumni2023 } from "../Data/alumniData";
 
