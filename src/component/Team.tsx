@@ -5,7 +5,7 @@ import { team } from '../Data/team';
 interface TeamMember {
   name: string;
   role: string;
-  image: string;s
+  image: string;
   linkedin?: string;
   github?: string;
 }
